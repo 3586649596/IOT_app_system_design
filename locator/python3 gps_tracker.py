@@ -50,5 +50,7 @@ def main():
             upload_location(latitude, longitude)
         time.sleep(1)
 
+
+
 if __name__ == "__main__":
     main()
